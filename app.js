@@ -9,7 +9,7 @@ GAME RULES:
 
 */
 
-// Declare glodal variable
+// Declare global variable
 var scores, roundScore, activePlayer, gamePlaying;
 
 //Call init function/game
